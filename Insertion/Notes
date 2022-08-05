@@ -1,0 +1,4 @@
+Examine each item in array
+Compare each item to item to it's right
+    swap if item on right is lesser
+Insert item in correct position in array

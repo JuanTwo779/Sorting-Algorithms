@@ -1,0 +1,3 @@
+Set minimum to first num in array
+Iterate to look for smaller minimum
+    if smaller number is found, set new number min and swap position with old min
