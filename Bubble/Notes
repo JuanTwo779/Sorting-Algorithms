@@ -1,0 +1,4 @@
+Repeatedly compares and swaps adjacent items while moving along array
+    if item to the right is larger
+
+Iterate again and again until all is sorted
